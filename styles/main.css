@@ -207,7 +207,7 @@ p:last-child {
   }
 
   .nav-toggle:checked ~ .site-nav {
-    max-height: 22rem;
+    max-height: 28rem;
   }
 
   .site-nav ul {
